@@ -2,10 +2,10 @@
 ## Phần 1: Phân tích
 ### 1. Quy trình kiểm tra bằng Network
 1. Mở website: [http://portal.greenlog.vn](https://portal.greenlog.vn/web/database/selector).
-2. Nhấn F12 để mở Chrome DevTools.
+2. Nhấn `F12` để mở Chrome DevTools.
 3. Chọn tab Network.
 4. Tích chọn Disable cache để vô hiệu hóa bộ nhớ đệm trong lúc DevTools đang mở.
-5. Nhấn Ctrl + R để tải lại trang.
+5. Nhấn `Ctrl + R` để tải lại trang.
 6. Quan sát danh sách Request và biểu đồ Waterfall.
 7. Chọn từng Request để xem các thông tin:
 - Status Code: mã trạng thái HTTP.
